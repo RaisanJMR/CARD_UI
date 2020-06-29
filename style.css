@@ -53,13 +53,13 @@ object-fit: cover;
     text-transform: uppercase;
 }
 .tag-teal {
-    background: #92d4e4;
+    background: #5C1E1E;
 }
 .tag-purple {
-    background: #3d1d94;
+    background: #423E59;
 }
 .tag-pink {
-    background: #c62bcb;
+    background: #EA3710;
 }
 .card-body h4 {
     margin: 10px 0;
